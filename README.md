@@ -9,7 +9,8 @@ ___
 - When the button is pressed, the button will have a speaker icon on top of it
 
 ## Demo
-<video width="630" height="300" src="Documentation/demo.mp4"></video>
+
+https://github.com/p4ulor/Soundboard-App/assets/32241574/1a02f701-efc1-4143-924e-bf93e48556c0
 
 ![](Documentation/demo.png)
 
