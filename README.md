@@ -1,5 +1,5 @@
 # SoundBoardApp
-- Small and simple Android soundboard I did inspired on [xfam0usx](https://www.twitch.tv/cfnafamous) streams in the summer of 2019. 
+- Small and simple Android soundboard I did inspired on [xfam0usx](https://www.twitch.tv/famousttv) streams in the summer of 2019. [His youtube](https://www.youtube.com/@FamousTTV/videos)
 - Done with lots of repetitive and lazy coding at the time lol, but I fixed it by dynamically setting the audios the buttons have, based on the mp3's found with the same file name as the id of the button
 ___
 - Basically it's just 1 activity, with a banner (ImageView)
