@@ -10,9 +10,7 @@ ___
 
 ## Demo
 
-https://github.com/p4ulor/Soundboard-App/assets/32241574/1a02f701-efc1-4143-924e-bf93e48556c0
-
-![](Documentation/demo.png)
+https://github.com/p4ulor/Soundboard-App/assets/32241574/5150e32c-a1a0-466e-848b-997cf053d8c9
 
 ## How to build
 - gradlew assembleDebug
